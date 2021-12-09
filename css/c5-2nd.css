@@ -23,10 +23,7 @@ header{
 .h-left,.logo,.menu{
 	display: flex;
 }
-.h-left{
-	padding-left: 140px;
-	
-}
+
 .menu ul li{
 	padding-top: 14px;
 	margin-left: 18px;
@@ -57,17 +54,17 @@ header{
 }
 .banner-content{
 	display: flex;
-
 }
 .info{
-	flex-basis: 30%;
+	flex-basis: 60%;
 }
-.img{
-	flex-basis: 70%;
+.img6{
+	flex-basis: 40%;	
 }
 .info {
 	margin-right: 180px;
 	text-align: left;
+	margin-right: 200px;
 }
 .info h1{
 	font-family: 'Open Sans', sans-serif;
@@ -85,6 +82,12 @@ header{
 	color: #a2a4a5;
 }
 .img6 img{
-	width: 400px;
+	width: 100%;
 	height: auto;
+	
+}
+.service{
+	width: 100%;
+	padding: 20px 0px;
+
 }
