@@ -3,6 +3,8 @@
 	padding: 0;
 }
 /*font-family: 'Open Sans', sans-serif;*/
+
+
 header{
 	width: 100%;
 	border-bottom: 1px solid #a6a6a6;
@@ -29,6 +31,8 @@ header{
     font-weight: 500;
 }
 
+
+
 .banner{
 	width: 100%;
 	padding: 60px 0px;
@@ -50,7 +54,11 @@ header{
 }
 .banner-content img{
 	width: 600px;
+	height: auto;
 }
+
+
+
 .about{
 	width: 100%;
 	padding: 30px 0px;
@@ -85,6 +93,8 @@ header{
     font-size: 40px;
     color: #0f2656;
 }
+
+
 
 .service{
 	width: 100%;
