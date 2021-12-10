@@ -165,14 +165,11 @@ header{
 	text-align: center;
 	border-radius: 4px;
 }
-.info1 p i,.info2 p i,.info3 p i,.info4 p i,.info5 p i,.info6 p i{
-	height: 6px;
-	width: 8px;
+.info1 i,.info2 i,.info3 i,.info4 i,.info5 i,.info6 i{
+	height: 52px;
+	width: 60px;
 	color: #ff4142;
 	border-radius: 100%;
-	margin-bottom: 20px;	
-}
-.info1 i,.info2 i,.info3 i,.info4 i,.info5 i,.info6 i{
 	background-color: #ffffff;
 }
 .info1 h3,.info2 h3,.info3 h3,.info4 h3,.info5 h3,.info6 h3{
@@ -181,6 +178,7 @@ header{
     color: #464a4c;
     font-weight: 700;
     margin-bottom: 10px;
+    margin-top: 20px;
 }
 .info1 p,.info2 p,.info3 p,.info4 p,.info5 p,.info6 p{
 	font-family: 'Open Sans', sans-serif;
